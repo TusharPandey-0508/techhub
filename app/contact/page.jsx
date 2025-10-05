@@ -17,7 +17,7 @@ export default function ContactPage() {
         <h1 className="text-4xl font-bold mb-4">Get in Touch</h1>
         <p className="text-muted-foreground max-w-2xl mx-auto">
           Have a question about our blog? Want to contribute? Or just want to say hello? 
-          We'd love to hear from you.
+          We love to hear from you.
         </p>
       </motion.div>
 
