@@ -47,7 +47,7 @@ const pathame = usePathname()
           {/* Logo */}
           <div className="flex-shrink-0 flex items-center">
             <Link href="/" className="text-2xl font-bold text-blue-600">
-              BlogHub
+              TechHub
             </Link>
           </div>
 
@@ -77,7 +77,7 @@ const pathame = usePathname()
               href="/contact"
               className="text-gray-600 hover:text-blue-600 transition-colors"
             >
-              Contact
+              Contact us
             </Link>
 
             <Button variant="outline">Login</Button>
