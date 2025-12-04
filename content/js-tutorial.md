@@ -11,11 +11,11 @@ image: /pexels-photo-574071.webp
 
 ## Introduction to JavaScript
 
-JavaScript is one of the most popular programming languages in the world, powering millions of websites and applications. In this comprehensive tutorial, we'll explore JavaScript from basics to advanced concepts.
+JavaScript is one of the most popular programming languages in the world, powering millions of websites and applications. In this comprehensive tutorial, we&#39;ll explore JavaScript from basics to advanced concepts.
 
 ## What is JavaScript?
 
-JavaScript is a high-level, interpreted programming language that enables interactive web pages. It's an essential part of web development alongside HTML and CSS.
+JavaScript is a high-level, interpreted programming language that enables interactive web pages. It&#39;s an essential part of web development alongside HTML and CSS.
 
 ## Key Features:
 - Dynamic typing
@@ -32,7 +32,6 @@ JavaScript is a high-level, interpreted programming language that enables intera
 3. Basic understanding of HTML and CSS
 
 ## Your First JavaScript Program
-
 
 ```javascript showLineNumbers
 console.log("Hello, World!");
