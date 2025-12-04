@@ -131,6 +131,13 @@ const pathame = usePathname()
             >
               Home
             </Link>
+            {/* added that blog link */}
+            <Link
+              href="/blog"
+              className="text-gray-600 hover:text-blue-600 transition-colors"
+            >
+              Blog
+            </Link>
             <Link
               href="/about"
               className="block px-3 py-2 rounded-md text-gray-600 hover:text-blue-600 hover:bg-gray-50 transition-colors"
